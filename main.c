@@ -5,7 +5,7 @@
 #include "decrypt.h"
    
 /* Configurações da janela */
-#define TITULO            L"CryptoX v2 - By Dennis Ansi C"
+#define TITULO            L"CryptoX v2 - By Constantine"
 #define CLASS_NAME        L"CryptoXClassEx"
 #define LARGURA           698
 #define ALTURA            216
