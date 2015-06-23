@@ -1,2 +1,8 @@
 # CryptoX
-Criptografia de strings simples, algoritmo em C.
+
+A Simple string encoder.
+- Autor: Dennis / dennisansic@inbox.im
+
+
+![alt tag](https://raw.githubusercontent.com/DennisAnsiC/CryptoX/master/example.png)
+
